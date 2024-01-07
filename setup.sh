@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 if [[ "$OSTYPE" == "cygwin" ]] || [[ "$OSTYPE" == "msys" ]] || [[ "$OSTYPE" == "win32" ]]; then
